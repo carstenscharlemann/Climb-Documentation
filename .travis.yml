@@ -3,10 +3,10 @@ before_install:
 - sudo apt-get install -y pandoc
 - sudo apt-get install -y texlive-full
 - sudo apt-get install -y texlive-xetex
-- chmod u+x ./travis/build.sh
-- chmod u+x ./travis/publish.sh
+- chmod u+x ./travis/build_doku.sh
+- chmod u+x ./travis/publish_doku.sh
 
 script: "./travis/build_doku.sh"
 
 after_success:
-- "./travis/publish_docu.sh"
+- "./travis/publish_doku.sh"
