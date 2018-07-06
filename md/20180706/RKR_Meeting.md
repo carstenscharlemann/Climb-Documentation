@@ -17,7 +17,7 @@
 	* RadHard Image sollte erreicht werden (MPU wie PEG vs. Bootloader)! 
     * Flash Speicher (2x ) ausreichend? Gibt es Missionsanforderungen an die Speichergröße! (Derzeitiges Bild: HKD, -Picture, -Science, +SystemHealth&Events, Subsystem Images!?)
     * RTC notwendige Auflösung & Genauigkeit. (LPC interne RTC "tickt nur in Sekunden", mehr Auflösung mit SW Tricks -> Komplexität, Kalibrierung und Tests notwendig!)
-* OBC-STACIE-GS Kommunnikation spezifizieren
+* OBC-STACIE-GS Kommunikation spezifizieren
   * Änderungen am UART Protokoll OBC-STACIE (ACk/Nack, Speed&Delays, Comm <-> SystemMonitoring&HKD)
   * Active/Standby Konzept (A/C) überarbeiten/redesignen
   * OBC-GS Application Layer Transparenz ermöglichen (OBC-GS != OBC-STACIE)
@@ -39,11 +39,12 @@
 
 * Erreichbare Genauigkeit der RTC durch Kalibrierungen & Tests absichern.
 * OBC-STACIE Kommunnikation spezifizieren (s.o.)
-* Roadmap/Planung OBC Entwicklung mit zeitlichen Abhängigkeiten. "Wann brauchen wir was und wie viel davon?" 
+* Roadmap/Planung OBC Entwicklung mit zeitlichen Abhängigkeiten. "Wann brauchen wir was und wie viel davon?"
+* Ansprechpartner und 'Stellvertreter' für Alles&einzelne Themengebiete definieren. (Alles - ADCS - Comm - Propulsion - ...)
 
 ## Aktuelle (an)laufende Tasks
 
-* Software Architekturdokument(Arc42) Erstentwurf -> als lebendes Dokument etablieren.
+* Software Architekturdokument([Arc42](Arc42Intro.md)) Erstentwurf -> als lebendes Dokument etablieren.
 * "Space Proofed Bootloader": Konzepte und Detailded Design -> Erste Versuche und Versionen auch noch ohne OBC HW möglich (-> Einfluss auf HW Design! -MPU, +Radhard Memory)
 * new/reworked Storage (Logger). "Make it more robust" (Eventuell 2 Level -> SaveStore(Skripts, HKD) vs. MassStore(Events & other data) ...)
 * Etablieren der Entwickler Vorgehensweisen "Vom Quatschen zum Doing!" -> github way of doing repositories/projects/issues zum Leben erwecken.
