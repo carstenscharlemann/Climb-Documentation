@@ -52,7 +52,7 @@
 ## Roadmap OBC Software
 * 0.1 Version für OBC Software mit aktuellem FreeRTOS auf 'leerem' Entwicklerboard. (ohne C++) (Teile/Submodule können ab dann mit Entwicklerboard + HW Prototypes 'gebastelt' werden).
 * 0.2 Version mit Bootloader (oder Alternative!?) und HW Layer nach Schaltplan. (Teile/Submodule können ab dann mit Entwicklerboard + HW Prototypes 'gebastelt' werden).
-* 0.3 Version läuft auf echter OBC Hardware inclusive low level SystemHealth/BoardTest Routinen.
+* 0.3 **Version läuft auf echter OBC Hardware inclusive low level SystemHealth/BoardTest Routinen.**
 * 0.4 Version + EPU Ansteuerung
 * 0.5 Version + Storage APIs
 * 0.6 Version + STACIE Comm & OG Communication (first Commands only ;-))
