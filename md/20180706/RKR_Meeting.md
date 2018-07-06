@@ -3,7 +3,7 @@
 ## Was hat sich seit dem letzten Meeting getan:
 
  * keine konkreten Fortschritte in SW und/oder Dokumentation.
- * vorige Woche - heute; "Team building" -> OBC SW Entwicklerteam (6 Personen - Robert, Reinhard St., Andi, Margit, Harry, Sebastian) - Herbert f. Testkonzepte/TestHw ?
+ * vorige Woche - heute; "Team building" -> OBC SW Entwicklerteam (6 Personen - Andi, Harry, Margit, Reinhard, Robert, Sebastian) - Herbert f. Testkonzepte/TestHw ?
  * CubeSim als Source code zur Verfügung (-> 'Missions'-Simulator?, Testdaten Generator!?).
  
 ## Abhängigkeiten von Anderen:
