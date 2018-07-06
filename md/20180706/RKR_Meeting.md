@@ -38,7 +38,7 @@
 ## Abhängigkeiten zu Anderen:
 
 * Erreichbare Genauigkeit der RTC durch Kalibrierungen & Tests absichern.
-* OBC-STACIE Kommunnikation spezifizieren (s.o.)
+* OBC-STACIE Kommunikation spezifizieren (s.o.)
 * Roadmap/Planung OBC Entwicklung mit zeitlichen Abhängigkeiten. "Wann brauchen wir was und wie viel davon?"
 * Ansprechpartner und 'Stellvertreter' für Alles&einzelne Themengebiete definieren. (Alles - ADCS - Comm - Propulsion - ...)
 
