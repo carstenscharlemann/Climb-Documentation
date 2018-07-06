@@ -29,11 +29,11 @@
 * ADCS Schnittstelle
   * Funktionales Design
   * Testkonzepte / Simulatoren & Stubbing
-* Test Hardware so früh wie möglich
+* Test Hardware so früh wie möglich [Konzepte aus OBC Sicht](https://github.com/carstenscharlemann/Climb-Obc-Sandbox/blob/master/mddocs/obcarc42/TestConcepts.md)
   * OBC für Software entwickler 5..10 Stück
   * Bus Adapter mit herausgeführten UARTs (eventuell mit FTDI on board?), JTAG Programmer
-	*  Variante 1: OBC Only 1xBuchse(2x20 2mm) für X+,X-,Y+,Y- => Jumper, Stecker mit 2.54mm  
-	*  Variante 2: Busplatine für 2 - 3 Einheiten ("MiniStack") wobei die UARTS Extern/Connected zu jaumpoern sind..... 
+	*  Variante 1 20..40 Stk: OBC Only 1xBuchse(2x20 2mm) für X+,X-,Y+,Y- => Jumper, Stecker mit 2.54mm  
+	*  Variante 2 ??8/12Stk??: Busplatine für 2 - 3 Einheiten ("MiniStack") wobei die UARTS Extern/Connected zu jaumpoern sind..... 
   
 ## Abhängigkeiten zu Anderen:
 
