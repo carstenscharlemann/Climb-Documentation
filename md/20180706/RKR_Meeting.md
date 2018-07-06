@@ -44,7 +44,7 @@
 
 ## Aktuelle (an)laufende Tasks
 
-* Software Architekturdokument([Arc42](Arc42Intro.md)) Erstentwurf -> als lebendes Dokument etablieren.
+* Software Architekturdokument([Arc42](Arc42Intro.md)) Erstentwurf -> [als lebendes Dokument etablieren](https://github.com/carstenscharlemann/Climb-Obc-Sandbox/blob/master/mddocs/obcarc42/TheArchitectur.md).
 * "Space Proofed Bootloader": Konzepte und Detailded Design -> Erste Versuche und Versionen auch noch ohne OBC HW möglich (-> Einfluss auf HW Design! -MPU, +Radhard Memory)
 * new/reworked Storage (Logger). "Make it more robust" (Eventuell 2 Level -> SaveStore(Skripts, HKD) vs. MassStore(Events & other data) ...)
 * Etablieren der Entwickler Vorgehensweisen "Vom Quatschen zum Doing!" -> github way of doing repositories/projects/issues zum Leben erwecken.
