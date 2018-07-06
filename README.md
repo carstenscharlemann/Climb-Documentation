@@ -8,7 +8,9 @@ Public Documentation for the cubesat Climb project.
 ...
 [Robert's first pictures](https://github.com/carstenscharlemann/Climb-Documentation/blob/master/md/CLI_ADD_RKS_001/content.md)
 ...
-
+###
+[Meeting Presentation 20180706](https://github.com/carstenscharlemann/Climb-Documentation/blob/master/md/20180706/RKR_Meeting.md)
+...
 
 ## Overview of related repositories on github
 
