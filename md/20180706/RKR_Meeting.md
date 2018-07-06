@@ -55,15 +55,15 @@
 * 0.4 Version + EPU Ansteuerung
 * 0.5 Version + Storage APIs
 * 0.6 Version + STACIE Comm & OG Communication (first Commands only ;-))
-
+###
 * 0.a1	Mixin (ab 0.3) Propulsion Module (Ansteuerung Subsystem, + 1. Version MC-API)
 * 0.a2	Mixin (ab 0.3) ADCS Module (Ansteuerung Subsystem, + 1. Version MC-API)
-
+###
 * 0.b1  Mixin (ab 0.5) Housekeeping & SystemStatus/Eventstore
 * 0.b2  Mixin (ab 0.6) 1. Version Scripting Engine (-> Zeitgesteuert Commands)
-
+###
 * 0.7 Version + Mission Control 1.Version mit 'Mission State Diagram' -> Operational Modes....
 * 0.99 "OBC Software proof of Architectural Frame" -> Alle Module vorhanden aber nur Erst und Basisfunktionalität!!! Lange nicht "Feature Ready"
-
+###
 * 1.c1 Mixin (ab 1.0) + Subsystem Image Recovery
-* ... 				  + Alles was wuir jetzt noch vergessen haben ;-).
+* ... 				  + Alles was wir jetzt noch vergessen haben ;-).
