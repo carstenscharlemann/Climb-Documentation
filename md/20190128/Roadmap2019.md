@@ -1,5 +1,6 @@
 Test sessions/Milestones
-* [Com Tests](Climb-Documentation/md/20190128/ComTests.md)
+* [Com Tests](https://github.com/carstenscharlemann/Climb-Documentation/blob/master/md/20190128/ComTests.md)
+* [Sub Module Tests](https://github.com/carstenscharlemann/Climb-Documentation/blob/master/md/20190128/SubModules.md)
 * Mission Tests
 
 Code Bases actual
