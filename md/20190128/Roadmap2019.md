@@ -5,7 +5,7 @@ Test sessions/Milestones
 
 Code Bases actual
 * A - Hardware tests (Status: live)
-  Experiments with different Parts (e.g. Real Time Clock -> Calibrations, ...) -> Images for Hardware commissioning (at least for OBC)
+  Experiments with different Parts (e.g. Real Time Clock -> Calibrations, ...) -> Images for hardware commissioning (at least for OBC)
 * B - Bootloader (Status: live)
   Base Experiments for 'Image Healing' and 'SW Upload'
 * C -  OBC Clone Pegasus  (Status: tbd: -> make Climb branch)
