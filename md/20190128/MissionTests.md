@@ -2,6 +2,9 @@
 
 ### Primary Goal
 Verify that the system is ready to achieve all required mission goals
+1. Orbit awareness
+2. Failure Modes 
+3. Operational Scripting 
 
 ### Secondary Goal
 * Establish test procedures and hardware setup (Test-Pad?) to get reusable test results.
